@@ -1,5 +1,7 @@
 ![](./src/assets/logo.svg)
 
+![dtmoney](https://user-images.githubusercontent.com/67440924/128584893-0db05173-57b4-42c8-a296-3a7cb2c4c926.gif)
+
 Projeto desenvolvido durante o programa Ignite da RocketSeat, consiste numa aplicação feita para ajudar as pessoas na hora de fazer as suas finanças pessoas.
 
 ## 💻 Tecnologias
